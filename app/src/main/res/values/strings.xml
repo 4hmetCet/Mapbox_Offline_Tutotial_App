@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MapBox Offline Tutorial</string>
+    <string name="access_token">Your_MapBox_Key</string>
+    <string name="user_location_permission_explanation">Konum izni verilsin mi</string>
+    <string name="user_location_permission_not_granted">Konum izni verilmedi</string>
+    <string name="set_region_name_hint">Bölge Adını Ayarla</string>
+    <string name="dialog_title">Başlık</string>
+    <string name="dialog_message">Mesaj</string>
+    <string name="dialog_positive_button">Olumlu</string>
+    <string name="dialog_toast">Uyarı</string>
+    <string name="dialog_negative_button">Vazgeç</string>
+    <string name="end_progress_success">İlerleme Tamamlandı</string>
+    <string name="toast_no_regions_yet">Henüz Bölge Yok</string>
+    <string name="navigate_title">Olmsuz Başlık</string>
+    <string name="navigate_positive_button">Konum Bul</string>
+    <string name="navigate_neutral_button_title">Konum Nötrle Başlık</string>
+    <string name="toast_region_deleted">Bölge Silindi</string>
+    <string name="navigate_negative_button_title">Konum Bulma İptal Edildi</string>
+    <string name="region_name">Region %1$d</string>
+</resources>
